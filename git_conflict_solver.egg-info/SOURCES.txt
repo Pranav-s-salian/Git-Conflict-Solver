@@ -1,0 +1,12 @@
+cli_shell.py
+conflict_solver.py
+git_cli.py
+git_utils.py
+setup.py
+utils.py
+git_conflict_solver.egg-info/PKG-INFO
+git_conflict_solver.egg-info/SOURCES.txt
+git_conflict_solver.egg-info/dependency_links.txt
+git_conflict_solver.egg-info/entry_points.txt
+git_conflict_solver.egg-info/requires.txt
+git_conflict_solver.egg-info/top_level.txt

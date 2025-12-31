@@ -1,0 +1,3 @@
+[console_scripts]
+git-conflict-solver = cli_shell:main
+git-solver = cli_shell:main
