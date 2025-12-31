@@ -5,7 +5,7 @@ Interactive CLI tool to automatically merge branches and resolve conflicts - Nod
 ## 🚀 Quick Installation
 
 ### Option 1: Download & Run EXE (Easiest!) ⭐
-1. Go to the [Release Page](https://github.com/yourusername/git-conflict-solver/releases)
+1. Go to the [Release Page](https://github.com/Pranav-s-salian/git-conflict-solver/releases)
 2. Download the latest `.exe` file
 3. Double-click the `.exe` file to launch the CLI
 4. Done! Your CLI is ready to use
@@ -14,7 +14,6 @@ Interactive CLI tool to automatically merge branches and resolve conflicts - Nod
 1. Double-click `install.bat` in this folder
 2. Wait for installation to complete
 3. Open terminal and run `git-solver`
-
 ### Option 3: Manual Install
 ```bash
 pip install -e .
