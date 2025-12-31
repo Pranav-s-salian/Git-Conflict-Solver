@@ -72,3 +72,48 @@ Thumbs.db
 *.log
 *.tmp
 .git-lock
+
+# Node modules (if any)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python dependencies locked
+Pipfile.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Pylint
+.pylintrc
+
+# Rope
+.ropeproject
+
+# Misc
+*.bak
+*.swp
+.vagrant/
+.vscode-test/
+out/
+*.vsix
+
+# Windows executables
+*.exe
+*.dll
+*.pyd
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
